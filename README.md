@@ -7,7 +7,7 @@ My name is Kevlyn Kadamala
 - ⚽️  I love football and I support Arsenal (COYG!)
 - 🎧  I like listening to alternative music
 - 👨‍🏫 I like teaching and sharing knowledge 😄
-- 🤔  I'd like to get some help with some training optimizations, model evaluations in Deep Learning and also logging (like Weights & Biases)
+- 🤔  I'd like to get some help with training optimizations, model evaluations in Deep Learning and also logging (like Weights & Biases)
 - 💬  You can ask me about football, AI or anything really!
 - 📫  How to reach me:
 
