@@ -1,16 +1,19 @@
-### Hi there 👋
+### Helloooo 👋
 
-<!--
-**kad99kev/kad99kev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kevlyn Kadamala
+-
 
-Here are some ideas to get you started:
+- 🔭  I have a keen interest in Artificial Intelligence and Deep Learning.
+- ⚽️  I love football and I support Arsenal (COYG!).
+- 🎧  I love listening to alternative music.
+- 🤔  I'd love to get some help with some training optimizations, model evaluations in Deep Learning and also logging (kinda like Weights and Biases).
+- 💬  You can ask me about football, AI anything really!
+- 📫  How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1]: https://twitter.com/kad99kev
+[2]: https://www.linkedin.com/in/kevlyn-kadamala/
+[3]: https://kad99kev.github.io
+
+ [![twitter](https://img.icons8.com/bubbles/50/000000/twitter.png)][1]
+ [![linkedin](https://img.icons8.com/bubbles/50/000000/linkedin.png)][2]
+ [![portfolio](https://img.icons8.com/bubbles/50/000000/link.png)][3]
