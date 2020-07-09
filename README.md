@@ -3,7 +3,7 @@
 My name is Kevlyn Kadamala
 -
 
-- 🔭  I have a keen interest in Artificial Intelligence and Deep Learning
+- 🔭  I have a keen interest in Artificial Intelligence, Reinforcement Learning and Deep Learning
 - ⚽️  I love football and I support Arsenal (COYG!)
 - 🎧  I like listening to alternative music
 - 👨‍🏫 I like teaching and sharing knowledge 😄
