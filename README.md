@@ -1,4 +1,4 @@
-### Helloooo 👋
+![# Helloooo 👋](assets/hellospacey.gif)
 
 My name is Kevlyn Kadamala
 -
