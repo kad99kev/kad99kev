@@ -1,4 +1,4 @@
-![# Helloooo 👋](https://github.com/kad99kev/kad99kev/blob/master/assets/hellospacey.jpg)
+![# Helloooo 👋](https://github.com/kad99kev/kad99kev/blob/master/assets/hellospacey.png)
 
 My name is Kevlyn Kadamala
 -
