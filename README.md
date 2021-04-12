@@ -21,4 +21,44 @@ My name is Kevlyn Kadamala
 
 Here are some of the software tools and frameworks I'm familiar with :D
 
-![](assets/softwares.png)
+<img  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+
+<img  src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
+<img  src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
+<img width=120
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/200px-Pandas_logo.svg.png">
+<img width=120  src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
+<img width=150  src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png">
+<img  src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
+<img width=120  src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
+<img width=100
+src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png">
+<img height=50  src="https://avatars.githubusercontent.com/u/21214473?s=200&v=4">
+<br><br><br>
+<img  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+
+<img  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+<img  src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
+<img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+<img width=180
+src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png">
+<br><br><br>
+<img  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<img  src="https://img.icons8.com/color/48/000000/css3.png" />
+<img  src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+<br><br><br>
+<img  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+<img  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+<img  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg">
+<br><br><br>
+<img  src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+<img  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
+<img  src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" />
+<br><br><br>
+<img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<img  src="https://img.icons8.com/color/48/000000/c-programming.png">
+<img  src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+<img  src="https://img.icons8.com/color/48/000000/flutter.png" />
